@@ -1,0 +1,2 @@
+1. Alasan mwmbuat tagging interface ?
+Agar dapat mengimplemen lebih dari satu interface.
